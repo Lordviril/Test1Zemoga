@@ -19,3 +19,10 @@ Contemplations
 
 1. Xcode 9.2 or higher
 2. Mac OS Sierra or higher
+
+
+Dependencies
+
+Matertial: Facilitates the use of Material Desing for the development "Animations"
+SwiftSpinner: load window in asynchronous services query
+Alamfire: Ficilita the consumption of rest services
